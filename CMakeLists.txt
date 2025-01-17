@@ -54,8 +54,8 @@ target_include_directories(tarefa_1_leds-buzzer PRIVATE
 )
 
 # Add any user requested libraries
-target_link_libraries(tarefa_1_leds-buzzer
+target_link_libraries(tarefa_1_leds-buzzer 
         
         )
 
-pico_add_extra_outputs(tarefa_1_leds-buzzer1)
+pico_add_extra_outputs(tarefa_1_leds-buzzer)
