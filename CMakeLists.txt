@@ -59,3 +59,4 @@ target_link_libraries(tarefa_1_leds-buzzer
         )
 
 pico_add_extra_outputs(tarefa_1_leds-buzzer)
+
